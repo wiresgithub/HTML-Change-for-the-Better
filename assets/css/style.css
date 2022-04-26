@@ -26,13 +26,13 @@ main,
 
 footer,
 .footer {
-    background: linear-gradient(to top, aqua, black);
+    background: linear-gradient(to top, black);
     color: white;
 }
 
 .flashy-text {
     color: aqua;
-    animation: blink-animation 0.2s steps(5, start) infinite;
+    animation: blink-animation 0.4s steps(5, start) infinite;
     -webkit-animation: blink-animation 0.2s steps(5, start) infinite;
 }
 
